@@ -1,2 +1,5 @@
 # MyMinecraftProjects
-Want to see some of my other Minecraft server plugin projects? Click here to get a link to my other github profile.
+Want to see some of my other Minecraft server plugin projects? Click the link below to get directed to my other Github profile where
+I share code for a few of the plugins I've made for my PMC Fan Server project!
+
+https://github.com/Toxidius
